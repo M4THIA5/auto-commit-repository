@@ -23,15 +23,29 @@ Every day at **00:00 UTC**, a GitHub Actions workflow runs:
 ├── .github/
 │   └── workflows/
 │       └── daily-commit.yaml   # GitHub Actions workflow
-├── log.txt                    # File updated daily
-└── README.md                  # Project documentation
+├── scripts/
+│   └── daily-commit.sh         # Script executed by the workflow
+├── log.txt                     # File updated daily
+└── README.md                   # Project documentation
 ```
 
 ---
 
 ## ⚙️ GitHub Actions Workflow
 
-Here’s the workflow file: `.github/workflows/daily-commit.yaml`
+The workflow file is located at: `.github/workflows/daily-commit.yaml`.
+
+You can test the workflow locally using [act](https://github.com/nektos/act):
+
+1. **Install `act`** if you haven't already.
+2. **Create a `.secrets` file** with your GitHub token:
+  ```plaintext
+  GITHUB_TOKEN=your_personal_access_token
+  ```
+3. **Run the workflow locally:**
+  ```sh
+  act schedule --secret-file .secrets
+  ```
 
 ### 📅 Customization
 
