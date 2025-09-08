@@ -7,7 +7,7 @@ Use cases include logging, testing CI/CD pipelines, or keeping your contribution
 
 ## 🚀 How It Works
 
-Every day at **00:00 UTC**, a GitHub Action workflow runs:
+Every day at **00:00 UTC**, a GitHub Actions workflow runs:
 
 1. **Checks out** the repository.
 2. **Appends** the current date and time to `log.txt` (or any file you choose).
@@ -31,4 +31,28 @@ Every day at **00:00 UTC**, a GitHub Action workflow runs:
 
 ## ⚙️ GitHub Actions Workflow
 
-Here’s the workflow file (`.github/workflows/daily-commit.yaml`)
+Here’s the workflow file: `.github/workflows/daily-commit.yaml`
+
+### 📅 Customization
+
+- **Change the cron schedule:**  
+  Modify the cron expression to control when it runs.  
+  Example: run at 6 AM UTC every day:  
+  ```yaml
+  - cron: "0 6 * * *"
+  ```
+
+- **Change the file being updated:**  
+  Replace `log.txt` with any file you want to modify or generate dynamically.
+
+- **Use a separate branch:**  
+  You can push to a branch like `auto-updates` instead of `main` to keep commits isolated.
+
+---
+
+## 💡 Use Cases
+
+- Keep your GitHub contribution graph green 🌱
+- Test CI/CD pipelines on a daily basis
+- Keep a running log of days/timestamps
+- Trigger downstream workflows automatically
