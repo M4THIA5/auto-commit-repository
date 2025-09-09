@@ -24,7 +24,8 @@ Every day at **00:00 UTC**, a GitHub Actions workflow runs:
 │   └── workflows/
 │       └── daily-commit.yaml   # GitHub Actions workflow
 ├── scripts/
-│   └── daily-commit.sh         # Script executed by the workflow
+│   ├── daily-commit.sh         # Script executed by the workflow
+│   └── log-update.sh           # Script to update the log file
 ├── log.txt                     # File updated daily
 └── README.md                   # Project documentation
 ```
@@ -35,12 +36,39 @@ Every day at **00:00 UTC**, a GitHub Actions workflow runs:
 
 The workflow file is located at: `.github/workflows/daily-commit.yaml`.
 
+### 🔑 Adding Secrets: `COMMIT_NAME` & `COMMIT_EMAIL`
+
+To securely provide your commit author information to the workflow, add the following secrets to your GitHub repository:
+
+1. Go to your repository on GitHub.
+2. Click on **Settings** > **Secrets and variables** > **Actions**.
+3. Click **New repository secret**.
+4. Add a secret named `COMMIT_NAME` with your desired commit author name.
+5. Add another secret named `COMMIT_EMAIL` with your email address.
+6. Save each secret.
+
+These secrets will be available to your workflow and used for commit attribution.
+
+### ▶️ Run the Workflow Manually on GitHub
+
+You can trigger the workflow directly from the GitHub UI:
+
+1. Go to the **Actions** tab of your repository.
+2. Select the **Daily Auto Commit** workflow from the list.
+3. Click the **"Run workflow"** button.
+4. Optionally, choose a branch and provide any required inputs.
+5. Click **"Run workflow"** to start the action immediately.
+
+This is useful for testing or making an immediate commit outside the scheduled time.
+
 You can test the workflow locally using [act](https://github.com/nektos/act):
 
 1. **Install `act`** if you haven't already.
 2. **Create a `.secrets` file** with your GitHub token:
   ```plaintext
   GITHUB_TOKEN=your_personal_access_token
+  COMMIT_NAME=YourName
+  COMMIT_EMAIL=you@example.com
   ```
 3. **Run the workflow locally:**
   ```sh

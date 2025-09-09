@@ -18,8 +18,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Run daily commit script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_NAME: ${{ secrets.COMMIT_NAME }}
+          COMMIT_EMAIL: ${{ secrets.COMMIT_EMAIL }}
         run: ./scripts/daily-commit.sh
