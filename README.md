@@ -25,8 +25,8 @@ Every day at **00:00 UTC**, a GitHub Actions workflow runs:
 │       └── daily-commit.yaml   # GitHub Actions workflow
 ├── scripts/
 │   ├── daily-commit.sh         # Script executed by the workflow
-│   └── log-update.sh           # Script to update the log file
-├── log.txt                     # File updated daily
+│   └── daily-info-update.sh    # Script to update the informations file
+├── DAILY_INFORMATIONS.md       # File updated daily
 └── README.md                   # Project documentation
 ```
 
