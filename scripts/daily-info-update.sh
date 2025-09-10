@@ -12,10 +12,11 @@ WEATHER_DESC=$(echo "$WEATHER_PARIS_DATA" | jq -r '.current_condition[0].weather
 WIND_SPEED_KMPH=$(echo "$WEATHER_PARIS_DATA" | jq -r '.current_condition[0].windspeedKmph')
 UV_INDEX=$(echo "$WEATHER_PARIS_DATA" | jq -r '.current_condition[0].uvIndex')
 
-# Quote of the day
-QUOTE_DATA=$(curl -s "https://api.quotable.io/random")
-QUOTE_TEXT=$(echo "$QUOTE_DATA" | jq -r '.content')
-QUOTE_AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.author')
+# # Quote of the day
+QUOTE_DATA=$(curl -s "https://zenquotes.io/api/random")
+
+QUOTE_TEXT=$(echo "$QUOTE_DATA" | jq -r '.[0].q')
+QUOTE_AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.[0].a')
 
 # random advice
 ADVICE_DATA=$(curl -s "https://api.adviceslip.com/advice")
@@ -35,9 +36,9 @@ cat <<EOF > DAILY_INFORMATIONS.md
 <table style="width:100%; background:linear-gradient(90deg, #e3f2fd 0%, #f7fafc 100%); border-radius:12px; box-shadow:0 2px 8px rgba(33,150,243,0.10); margin-bottom:18px; border-collapse:separate; border-spacing:0;">
   <thead>
     <tr>
-      <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; border-top-left-radius:12px; text-align:center;">🌡️ Température</th>
+      <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; border-top-left-radius:12px; text-align:center;">🌡️ Temperature</th>
       <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; text-align:center;">🌤️ Conditions</th>
-      <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; text-align:center;">💨 Vent</th>
+      <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; text-align:center;">💨 Wind</th>
       <th style="padding:12px 8px; color:#1976d2; font-size:1.1em; background:#f0f8ff; border-top-right-radius:12px; text-align:center;">🔆 UV Index</th>
     </tr>
   </thead>
@@ -69,7 +70,7 @@ cat <<EOF > DAILY_INFORMATIONS.md
       <!-- vertical separator -->
     </td>
     <td width="48%" valign="top">
-      <h3>📝 Tip of the Day</h3>
+      <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
           <strong>💡</strong> <em>“${ADVICE_TEXT}”</em>
