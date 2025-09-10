@@ -7,10 +7,10 @@ Use cases include logging, testing CI/CD pipelines, or keeping your contribution
 
 ## 🚀 How It Works
 
-Every day at **00:00 UTC**, a GitHub Actions workflow runs:
+Every day at **18:00 French time (16:00 UTC)**, a GitHub Actions workflow runs:
 
 1. **Checks out** the repository.
-2. **Appends** the current date and time to `log.txt` (or any file you choose).
+2. **Appends** the current date and time to `DAILY_INFORMATIONS.md`.
 3. **Commits** the change with a timestamped commit message.
 4. **Pushes** the commit to the repository.
 
