@@ -2,8 +2,6 @@
 name: Daily Commit
 
 on:
-  schedule:
-    - cron: "0 16 * * *" # Runs daily at 18:00 Paris time (UTC+2)
   workflow_dispatch:
 
 permissions:
