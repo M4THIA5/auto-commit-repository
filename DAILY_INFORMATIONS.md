@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Friday 12 September 2025 - 11:26PM
+    Friday 12 September 2025 - 11:27PM
   </span>
 </div>
 
@@ -34,10 +34,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“I am thankful to all those who said no. It's because of them, I did it myself.  ”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“If I can stop one heart from breaking, I shall not live in vain.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Wayne Dyer</em>
+          — <em>Emily Dickinson</em>
         </span>
       </div>
     </td>
@@ -48,7 +48,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“If you are ever in doubt about whether or not to wash your hair: Wash it.”</em>
+          <strong>💡</strong> <em>“Cars are bad investments.”</em>
         </span>
       </div>
     </td>
