@@ -7,10 +7,10 @@ Use cases include logging, testing CI/CD pipelines, or keeping your contribution
 
 ## 🚀 How It Works
 
-Every day at **18:00 French time (16:00 UTC)**, a GitHub Actions workflow runs:
+Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow runs:
 
 1. **Checks out** the repository.
-2. **Appends** the current date and time to `DAILY_INFORMATIONS.md`.
+2. **Updates** the daily information in `DAILY_INFORMATIONS.md`.
 3. **Commits** the change with a timestamped commit message.
 4. **Pushes** the commit to the repository.
 
@@ -21,8 +21,10 @@ Every day at **18:00 French time (16:00 UTC)**, a GitHub Actions workflow runs:
 ```
 .
 ├── .github/
-│   └── workflows/
-│       └── daily-commit.yaml   # GitHub Actions workflow
+│   ├── workflows/
+│   |   └── daily-commit.yaml   # GitHub Actions workflow
+│   └── PULL_REQUEST_TEMPLATE/
+│       └── default.md          # Default pull request template
 ├── scripts/
 │   ├── daily-commit.sh         # Script executed by the workflow
 │   └── daily-info-update.sh    # Script to update the informations file
@@ -74,23 +76,6 @@ You can test the workflow locally using [act](https://github.com/nektos/act):
   ```sh
   act schedule --secret-file .secrets
   ```
-
-### 📅 Customization
-
-- **Change the cron schedule:**  
-  Modify the cron expression to control when it runs.  
-  Example: run at 6 AM UTC every day:  
-  ```yaml
-  - cron: "0 6 * * *"
-  ```
-
-- **Change the file being updated:**  
-  Replace `log.txt` with any file you want to modify or generate dynamically.
-
-- **Use a separate branch:**  
-  You can push to a branch like `auto-updates` instead of `main` to keep commits isolated.
-
----
 
 ## 💡 Use Cases
 
