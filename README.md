@@ -1,5 +1,7 @@
 # 🔄 Daily Auto Commit
 
+[![Daily Commit](https://github.com/M4THIA5/auto-commit-repository/actions/workflows/daily-commit.yaml/badge.svg)](https://github.com/M4THIA5/auto-commit-repository/actions/workflows/daily-commit.yaml)
+
 This repository uses **GitHub Actions** to automatically make a commit every day.  
 Use cases include logging, testing CI/CD pipelines, or keeping your contribution graph active.
 
@@ -18,7 +20,7 @@ Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow ru
 
 ## 📂 Project Structure
 
-```
+```tree
 .
 ├── .github/
 │   ├── workflows/
@@ -67,12 +69,15 @@ You can test the workflow locally using [act](https://github.com/nektos/act):
 
 1. **Install `act`** if you haven't already.
 2. **Create a `.secrets` file** with your GitHub token:
+
   ```plaintext
   GITHUB_TOKEN=your_personal_access_token
   COMMIT_NAME=YourName
   COMMIT_EMAIL=you@example.com
   ```
+
 3. **Run the workflow locally:**
+
   ```sh
   act schedule --secret-file .secrets
   ```
@@ -83,3 +88,25 @@ You can test the workflow locally using [act](https://github.com/nektos/act):
 - Test CI/CD pipelines on a daily basis
 - Keep a running log of days/timestamps
 - Trigger downstream workflows automatically
+
+---
+
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+This project is licensed under the [MIT License](LICENSE).
+
+## 👤 Author
+
+- **Mathias Collas-Jourdan** ([GitHub Profile](https://github.com/M4THIA5))
+
+---
+
+## 🤝 Questions & Collaboration
+
+Feel free to reach out for questions, feedback, or collaboration!  
+Contributions and suggestions are always welcome to improve this project.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/M4THIA5/auto-commit-repository)
+
+Thank you for checking out **Daily Auto Commit**! 🚀
