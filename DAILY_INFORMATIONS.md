@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Thursday 18 September 2025 - 06:00PM
+    Friday 19 September 2025 - 06:00PM
   </span>
 </div>
 
@@ -19,9 +19,9 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">25°C</td>
+      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">31°C</td>
       <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Sunny</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">8 km/h</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">13 km/h</td>
       <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">3</td>
     </tr>
   </tbody>
@@ -34,10 +34,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“What the eye doesn't see and the mind doesn't know, doesn't exist.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“We don't stop playing because we grow old; we grow old because we stop playing.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>D. H. Lawrence</em>
+          — <em>George Bernard Shaw</em>
         </span>
       </div>
     </td>
@@ -48,7 +48,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.”</em>
+          <strong>💡</strong> <em>“Always seek out advice or opinions when making a decision.”</em>
         </span>
       </div>
     </td>
