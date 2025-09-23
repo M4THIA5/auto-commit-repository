@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Monday 22 September 2025 - 06:01PM
+    Tuesday 23 September 2025 - 06:00PM
   </span>
 </div>
 
@@ -20,9 +20,9 @@
   <tbody>
     <tr>
       <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">16°C</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Partly cloudy</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">20 km/h</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">2</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Overcast</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">16 km/h</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">1</td>
     </tr>
   </tbody>
 </table>
@@ -34,10 +34,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“Never argue with ignorance. It only leads to frustration.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“All men are equal before fish.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Unknown</em>
+          — <em>Herbert Hoover</em>
         </span>
       </div>
     </td>
@@ -48,7 +48,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“Don't always believe what you think.”</em>
+          <strong>💡</strong> <em>“The higher up you are in a company, the more likely it is that your boss is a psychopath.”</em>
         </span>
       </div>
     </td>
