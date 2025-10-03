@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Thursday 02 October 2025 - 06:00PM
+    Friday 03 October 2025 - 06:00PM
   </span>
 </div>
 
@@ -19,10 +19,10 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">19°C</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Partly cloudy</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">10 km/h</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">3</td>
+      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">15°C</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Light rain</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">11 km/h</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">0</td>
     </tr>
   </tbody>
 </table>
@@ -34,10 +34,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. ”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“Numbing the pain for a while will only make it worse when you finally feel it.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Oprah Winfrey</em>
+          — <em>Albus Dumbledore</em>
         </span>
       </div>
     </td>
@@ -48,7 +48,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“When hugging, hug with both arms and apply reasonable, affectionate pressure.”</em>
+          <strong>💡</strong> <em>“True happiness always resides in the quest.”</em>
         </span>
       </div>
     </td>
