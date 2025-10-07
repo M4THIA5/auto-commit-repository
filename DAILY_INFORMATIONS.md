@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Monday 06 October 2025 - 06:00PM
+    Tuesday 07 October 2025 - 06:00PM
   </span>
 </div>
 
@@ -19,10 +19,10 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">15°C</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Overcast</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">9 km/h</td>
-      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">3</td>
+      <td style="padding:16px 8px; font-weight:bold; color:#4F8A8B; font-size:1.3em; text-align:center; background:#ffffff; border-bottom-left-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">20°C</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">Sunny</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; box-shadow:0 1px 4px rgba(33,150,243,0.07);">4 km/h</td>
+      <td style="padding:16px 8px; color:#333; font-size:1.1em; text-align:center; background:#ffffff; border-bottom-right-radius:12px; box-shadow:0 1px 4px rgba(33,150,243,0.07);">1</td>
     </tr>
   </tbody>
 </table>
@@ -34,10 +34,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“Show me a hero, and I'll write you a tragedy.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“Keep your dreams, you never know when you might need them.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>F. Scott Fitzgerald</em>
+          — <em>Carlos Ruiz Zafon</em>
         </span>
       </div>
     </td>
@@ -48,7 +48,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“Identify sources of happiness.”</em>
+          <strong>💡</strong> <em>“YOLO”</em>
         </span>
       </div>
     </td>
