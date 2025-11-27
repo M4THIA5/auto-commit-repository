@@ -40,15 +40,15 @@ Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow ru
 
 The workflow file is located at: `.github/workflows/daily-commit.yaml`.
 
-### 🔑 Adding Secrets: `COMMIT_NAME` & `COMMIT_EMAIL`
+### 🔑 Adding Secrets: `COMMITER_NAME` & `COMMITER_EMAIL`
 
 To securely provide your commit author information to the workflow, add the following secrets to your GitHub repository:
 
 1. Go to your repository on GitHub.
 2. Click on **Settings** > **Secrets and variables** > **Actions**.
 3. Click **New repository secret**.
-4. Add a secret named `COMMIT_NAME` with your desired commit author name.
-5. Add another secret named `COMMIT_EMAIL` with your email address.
+4. Add a secret named `COMMITER_NAME` with your desired commit author name.
+5. Add another secret named `COMMITER_EMAIL` with your email address.
 6. Save each secret.
 
 These secrets will be available to your workflow and used for commit attribution.
@@ -72,8 +72,8 @@ You can test the workflow locally using [act](https://github.com/nektos/act):
 
   ```plaintext
   GITHUB_TOKEN=your_personal_access_token
-  COMMIT_NAME=YourName
-  COMMIT_EMAIL=you@example.com
+  COMMITER_NAME=YourName
+  COMMITER_EMAIL=you@example.com
   ```
 
 3. **Run the workflow locally:**
