@@ -110,4 +110,3 @@ Contributions and suggestions are always welcome to improve this project.
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/M4THIA5/auto-commit-repository)
 
 Thank you for checking out **Daily Auto Commit**! 🚀
-# auto-commit-repository
