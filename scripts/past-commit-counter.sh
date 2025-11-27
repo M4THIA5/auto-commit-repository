@@ -1,1 +1,1 @@
-past_commits_counter=2
+past_commits_counter=3
