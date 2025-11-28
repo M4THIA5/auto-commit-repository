@@ -12,9 +12,14 @@ Use cases include logging, testing CI/CD pipelines, or keeping your contribution
 Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow runs:
 
 1. **Checks out** the repository.
-2. **Updates** the daily information in `DAILY_INFORMATIONS.md`.
-3. **Commits** the change with a timestamped commit message.
-4. **Pushes** the commit to the repository.
+2. **Updates** the `past-commit.txt` file and increments the past commit counter.
+3. **Commits** the changes with a timestamped commit message in the format `today-past_commit_counter`.
+4. **Pushes** the commit back to the repository.
+
+5. **Checks out** the repository.
+6. **Updates** the daily information in `DAILY_INFORMATIONS.md`.
+7. **Commits** the change with a timestamped commit message.
+8. **Pushes** the commit to the repository.
 
 ---
 
@@ -24,14 +29,17 @@ Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow ru
 .
 ├── .github/
 │   ├── workflows/
-│   |   └── daily-commit.yaml   # GitHub Actions workflow
+│   |   └── daily-commit.yaml       # GitHub Actions workflow
 │   └── PULL_REQUEST_TEMPLATE/
-│       └── default.md          # Default pull request template
+│       └── default.md              # Default pull request template
 ├── scripts/
-│   ├── daily-commit.sh         # Script executed by the workflow
-│   └── daily-info-update.sh    # Script to update the informations file
-├── DAILY_INFORMATIONS.md       # File updated daily
-└── README.md                   # Project documentation
+│   ├── daily-commit.sh             # Script executed by the workflow
+│   ├── daily-info-update.sh        # Script to update the informations file
+│   └── past-commit-counter.sh      # variable to count past commits
+│   └── populate-contributions.sh   # Script to populate contributions graph to the past
+├── DAILY_INFORMATIONS.md           # File updated daily
+├── past-commit.txt                 # File to track the number of past commits
+└── README.md                       # Project documentation
 ```
 
 ---
@@ -49,7 +57,8 @@ To securely provide your commit author information to the workflow, add the foll
 3. Click **New repository secret**.
 4. Add a secret named `COMMITER_NAME` with your desired commit author name.
 5. Add another secret named `COMMITER_EMAIL` with your email address.
-6. Save each secret.
+6. Add another secret named `OPEN_WEATHER_API_KEY` with your OpenWeather API key (you can get one for free at [OpenWeather](https://openweathermap.org/api)).
+7. Save each secret.
 
 These secrets will be available to your workflow and used for commit attribution.
 
@@ -74,12 +83,13 @@ You can test the workflow locally using [act](https://github.com/nektos/act):
   GITHUB_TOKEN=your_personal_access_token
   COMMITER_NAME=YourName
   COMMITER_EMAIL=you@example.com
+  OPEN_WEATHER_API_KEY=your_openweather_api_key
   ```
 
 3. **Run the workflow locally:**
 
   ```sh
-  act schedule --secret-file .secrets
+  act -j daily-commit --secret-file .secrets
   ```
 
 ## 💡 Use Cases
