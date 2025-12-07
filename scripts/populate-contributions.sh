@@ -5,7 +5,7 @@
 num_commits=$((RANDOM % 6)) # Random commit number between 0 and 5 to add
 current_date=$(date -d "-$past_commits_counter days" +"%Y-%m-%d")
 
-past_commits_counter=$((past_commits_counter + 1))
+past_commits_counter=$((past_commits_counter + 2))
 echo "past_commits_counter=$past_commits_counter" > ./scripts/past-commit-counter.sh
 
 git config user.name "$COMMITER_NAME"
