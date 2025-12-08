@@ -9,7 +9,7 @@ Use cases include logging, testing CI/CD pipelines, or keeping your contribution
 
 ## 🚀 How It Works
 
-Every day at **18:00 Paris time (18:00 CET/CEST)**, a GitHub Actions workflow runs:
+Every day at **18:00 UTC**, a GitHub Actions workflow runs:
 
 1. **Checks out** the repository.
 2. **Updates** the `past-commit.txt` file and increments the past commit counter.
