@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Sunday 18 January 2026 - 05:05PM
+    Monday 19 January 2026 - 05:07PM
   </span>
 </div>
 
@@ -11,18 +11,18 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px;">
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌡️ Temperature</strong>
-    <p>8.84°C (Feels like: 7.79°C)</p>
-    <small>Min: 7.85°C, Max: 9.5°C</small>
+    <p>9.42°C (Feels like: 7.76°C)</p>
+    <small>Min: 8.41°C, Max: 10.06°C</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌤️ Conditions</strong>
     <p>clear sky</p>
-    <small>Pressure: 1016 hPa, Humidity: 77%</small>
+    <small>Pressure: 1017 hPa, Humidity: 82%</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>💨 Wind</strong>
-    <p>2.06 km/h</p>
-    <small>Direction: 50°</small>
+    <p>3.09 km/h</p>
+    <small>Direction: 110°</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>☁️ Cloud Coverage</strong>
@@ -30,11 +30,11 @@
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌅 Sunrise</strong>
-    <p>07:36:37</p>
+    <p>07:35:45</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌇 Sunset</strong>
-    <p>16:25:01</p>
+    <p>16:26:31</p>
   </div>
 </div>
 
@@ -45,7 +45,7 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“You can avoid reality, but you cannot avoid the consequences of avoiding reality.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“Learn to value yourself, which means: fight for your happiness.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
           — <em>Ayn Rand</em>
@@ -59,7 +59,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“Once you find a really good friend don't do anything that could mess up your friendship.”</em>
+          <strong>💡</strong> <em>“Everything in moderation, including moderation itself.”</em>
         </span>
       </div>
     </td>
