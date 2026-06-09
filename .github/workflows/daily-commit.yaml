@@ -3,7 +3,7 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 16 * * *' # 16:00 UTC daily
+    - cron: '0 8 * * *' # 08:00 UTC = 10:00 Paris (CEST, summer)
   workflow_dispatch:
 
 permissions:
