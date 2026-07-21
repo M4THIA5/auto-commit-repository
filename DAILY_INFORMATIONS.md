@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Monday 20 July 2026 - 11:03AM
+    Tuesday 21 July 2026 - 10:53AM
   </span>
 </div>
 
@@ -11,30 +11,30 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px;">
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌡️ Temperature</strong>
-    <p>20.53°C (Feels like: 19.94°C)</p>
-    <small>Min: 19.5°C, Max: 21.19°C</small>
+    <p>20.8°C (Feels like: 20.4°C)</p>
+    <small>Min: 19.97°C, Max: 21.27°C</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌤️ Conditions</strong>
     <p>clear sky</p>
-    <small>Pressure: 1024 hPa, Humidity: 50%</small>
+    <small>Pressure: 1026 hPa, Humidity: 56%</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>💨 Wind</strong>
-    <p>3.68 km/h</p>
-    <small>Direction: 42°</small>
+    <p>3.72 km/h</p>
+    <small>Direction: 29°</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>☁️ Cloud Coverage</strong>
-    <p>5%</p>
+    <p>0%</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌅 Sunrise</strong>
-    <p>04:08:23</p>
+    <p>04:09:34</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌇 Sunset</strong>
-    <p>19:45:15</p>
+    <p>19:44:12</p>
   </div>
 </div>
 
@@ -45,10 +45,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“Unless someone truly has the power to say no, they never truly have the power to say yes.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“The world makes way for the man who knows where he is going.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Dan Millman</em>
+          — <em>Ralph Waldo Emerson</em>
         </span>
       </div>
     </td>
@@ -59,7 +59,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“Always bet on black.”</em>
+          <strong>💡</strong> <em>“Try going commando to an important meeting, NB: don't wear a skirt.”</em>
         </span>
       </div>
     </td>
