@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Sunday 13 September 2026 - 03:02PM
+    Monday 14 September 2026 - 04:38PM
   </span>
 </div>
 
@@ -11,30 +11,30 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px;">
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌡️ Temperature</strong>
-    <p>24.78°C (Feels like: 24.62°C)</p>
-    <small>Min: 23.5°C, Max: 26.75°C</small>
+    <p>28.47°C (Feels like: 28.33°C)</p>
+    <small>Min: 27.38°C, Max: 30.08°C</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌤️ Conditions</strong>
-    <p>overcast clouds</p>
-    <small>Pressure: 1024 hPa, Humidity: 50%</small>
+    <p>clear sky</p>
+    <small>Pressure: 1022 hPa, Humidity: 43%</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>💨 Wind</strong>
     <p>3.6 km/h</p>
-    <small>Direction: 280°</small>
+    <small>Direction: 270°</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>☁️ Cloud Coverage</strong>
-    <p>98%</p>
+    <p>10%</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌅 Sunrise</strong>
-    <p>05:24:10</p>
+    <p>05:25:34</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌇 Sunset</strong>
-    <p>18:09:29</p>
+    <p>18:07:20</p>
   </div>
 </div>
 
@@ -45,10 +45,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“People who have goals succeed because they know where they're going. It's that simple.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“Real learning comes about when the competitive spirit has ceased.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Earl Nightingale</em>
+          — <em>Jiddu Krishnamurti</em>
         </span>
       </div>
     </td>
@@ -59,7 +59,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.”</em>
+          <strong>💡</strong> <em>“Never run a marathon in Crocs.”</em>
         </span>
       </div>
     </td>
