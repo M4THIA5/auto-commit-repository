@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Tuesday 20 October 2026 - 03:12PM
+    Wednesday 21 October 2026 - 03:21PM
   </span>
 </div>
 
@@ -11,30 +11,30 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px;">
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌡️ Temperature</strong>
-    <p>13.05°C (Feels like: 12.71°C)</p>
-    <small>Min: 12.19°C, Max: 14.04°C</small>
+    <p>11.96°C (Feels like: 11.27°C)</p>
+    <small>Min: 11.33°C, Max: 12.86°C</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌤️ Conditions</strong>
-    <p>overcast clouds</p>
-    <small>Pressure: 1008 hPa, Humidity: 88%</small>
+    <p>clear sky</p>
+    <small>Pressure: 1010 hPa, Humidity: 79%</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>💨 Wind</strong>
-    <p>5.66 km/h</p>
-    <small>Direction: 210°</small>
+    <p>6.69 km/h</p>
+    <small>Direction: 240°</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>☁️ Cloud Coverage</strong>
-    <p>100%</p>
+    <p>9%</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌅 Sunrise</strong>
-    <p>06:18:09</p>
+    <p>06:19:44</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌇 Sunset</strong>
-    <p>16:52:30</p>
+    <p>16:50:38</p>
   </div>
 </div>
 
@@ -45,10 +45,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“When things go wrong, don't go with them.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“When you know what you want, and want it bad enough, you will find a way to get it.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Elvis Presley</em>
+          — <em>Jim Rohn</em>
         </span>
       </div>
     </td>
@@ -59,7 +59,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“Mercy is the better part of justice.”</em>
+          <strong>💡</strong> <em>“Walking is a perfectly valid solution to traffic congestion problems.”</em>
         </span>
       </div>
     </td>
