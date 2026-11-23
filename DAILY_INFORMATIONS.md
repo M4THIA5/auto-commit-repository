@@ -3,7 +3,7 @@
 ## 🕒 Current Date and Time in Paris
 <div style="text-align:center; margin: 18px 0; padding: 12px 0; background: #f7fafc; border-radius: 8px; box-shadow: 0 1px 6px rgba(33,150,243,0.08);">
   <span style="font-size:2em; font-weight:bold; color:#4F8A8B;">
-    Sunday 22 November 2026 - 04:50PM
+    Monday 23 November 2026 - 08:44PM
   </span>
 </div>
 
@@ -11,30 +11,30 @@
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-bottom: 18px;">
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌡️ Temperature</strong>
-    <p>7.96°C (Feels like: 6.36°C)</p>
-    <small>Min: 7.1°C, Max: 9.05°C</small>
+    <p>3.84°C (Feels like: 1.04°C)</p>
+    <small>Min: 2.86°C, Max: 4.97°C</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌤️ Conditions</strong>
-    <p>moderate rain</p>
-    <small>Pressure: 1010 hPa, Humidity: 92%</small>
+    <p>broken clouds</p>
+    <small>Pressure: 1026 hPa, Humidity: 86%</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>💨 Wind</strong>
-    <p>2.57 km/h</p>
-    <small>Direction: 20°</small>
+    <p>3.09 km/h</p>
+    <small>Direction: 70°</small>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>☁️ Cloud Coverage</strong>
-    <p>100%</p>
+    <p>75%</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌅 Sunrise</strong>
-    <p>07:10:11</p>
+    <p>07:11:39</p>
   </div>
   <div style="background: #e3f2fd; border-radius: 12px; padding: 16px; box-shadow: 0 2px 8px rgba(33,150,243,0.1); width: 45%; text-align: center;">
     <strong>🌇 Sunset</strong>
-    <p>16:03:40</p>
+    <p>16:02:45</p>
   </div>
 </div>
 
@@ -45,10 +45,10 @@
     <td width="48%" valign="top">
       <h3>💬 Quote of the Day</h3>
       <div style="background: #f9f9f9; border-left: 4px solid #4F8A8B; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
-        <span style="font-size:1.25em; font-style:italic; color:#333;">“The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.”</span>
+        <span style="font-size:1.25em; font-style:italic; color:#333;">“Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you.”</span>
         <br>
         <span style="display:block; margin-top:10px; text-align:right; color:#4F8A8B; font-weight:bold;">
-          — <em>Charles Dickens</em>
+          — <em>Dale Carnegie</em>
         </span>
       </div>
     </td>
@@ -59,7 +59,7 @@
       <h3>📝 Advice of the Day</h3>
       <div style="background: #f0f8ff; border-left: 4px solid #FFB400; padding: 16px 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); word-break:break-word;">
         <span style="font-size:1.15em; color:#333;">
-          <strong>💡</strong> <em>“You're not that important; it's what you do that counts.”</em>
+          <strong>💡</strong> <em>“Be brave. Even if you're not, pretend to be. No one can tell the difference.”</em>
         </span>
       </div>
     </td>
